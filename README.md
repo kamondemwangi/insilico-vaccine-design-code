@@ -16,7 +16,7 @@ often used to create chimeric peptides than can be used as vaccines. Predicted T
 usually at an optimal length of 9-10 mers while B-cell epitopes having varying lengths but
 usually the best being 15-22 amino acids in length.
 
-Python code for the generation of multi-epitope vaccine constructs,this code is essential for the generation of vaccine constructs, 
+The python code for the generation of multi-epitope vaccine constructs,this code is essential for the generation of vaccine constructs, 
 the user has latitude to select the adjuvant and linkers for the B and T cell epitopes.
 
 Gromacs,molecular dynamics simulation of vaccine-receptor complex script also available, this is essential to study the stability 
