@@ -11,7 +11,7 @@ MHC, engage T cell receptors and stimulate T cell response, peptides that can el
 are T-cell epitopes. Bioinformatics tools have accelerated the prediction of these motifs and at
 the same time accelerated development of epitope-based vaccines. B cell epitopes have the
 ability to bind to immunoglobulins or antibodies and are of two type’s linear and conformational
-8also known as continuous and discontinuous epitopes. A combination of B and T cell epitopes is
+also known as continuous and discontinuous epitopes. A combination of B and T cell epitopes is
 often used to create chimeric peptides than can be used as vaccines. Predicted T-cell epitopes are
 usually at an optimal length of 9-10 mers while B-cell epitopes having varying lengths but
 usually the best being 15-22 amino acids in length.
