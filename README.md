@@ -26,19 +26,20 @@ the user has latitude to select the adjuvant and linkers for the B and T cell ep
                                         [-bcl BCLINKER]`
 
 #### optional arguments:
- -h, --help           show this help message and exit
-  -r RANDOMSIZE, --randomsize RANDOMSIZE
-                        number of randomized epitopes
-  -tcl TCLINKER, --tclinker TCLINKER
-                        T-cell epitopes linker
-  -bcl BCLINKER, --bclinker BCLINKER
-                        B-cell epitopes linker
+  -h, --help           show this help message and exit
+
+  -r RANDOMSIZE, --randomsize RANDOMSIZE numnber of randomized epitopes
+  
+  -tcl TCLINKER, --tclinker TCLINKER  T-cell epitopes linker
+                       
+  -bcl BCLINKER, --bclinker BCLINKER  B-cell epitopes linker
+                        
 
 #### required arguments:
-  -t TCELL, --tcell TCELL
-                        T-cell epitope file path
-  -b BCELL, --bcell BCELL
-                        B-cell epitope file path
+  -t TCELL, --tcell TCELL   T-cell epitope file path
+                       
+  -b BCELL, --bcell BCELL   B-cell epitope file path
+                       
 
 *provide B & T cell epitopes in csv format as follows:*
 
