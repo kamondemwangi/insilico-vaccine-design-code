@@ -40,7 +40,14 @@ the user has latitude to select the adjuvant and linkers for the B and T cell ep
   -b BCELL, --bcell BCELL
                         B-cell epitope file path
 
-*provide B & T cell epitopes in csv format.*
- 
-Gromacs,molecular dynamics simulation of vaccine-receptor complex script(gromacs_script.sbatch) also available, this is essential to study the stability 
-of the vaccine-receptor complex insilico.
+*provide B & T cell epitopes in csv format.
+
+1. pos	epitope
+2. 255	SEEKDTNSEEDPEAEEDPDS
+295	IIPSPKPLTPEQQQERELKL
+272	SSSNGSSSSNSTSSSSSSTT
+251	ITKAIKKPNSGSTTSSSSNT
+24	NCKCHNNNSNSSSNNDTLGG
+438	VNSVSTVSPVNPVNPVNPVV
+490	AVNTSNPSNPVNTVNQVVNE
+
