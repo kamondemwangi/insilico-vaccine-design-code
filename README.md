@@ -40,7 +40,7 @@ the user has latitude to select the adjuvant and linkers for the B and T cell ep
   -b BCELL, --bcell BCELL
                         B-cell epitope file path
 
-*provide B & T cell epitopes in csv format as follows:
+## provide B & T cell epitopes in csv format as follows:
 
 1. pos	epitope
 2. 255	SEEKDTNSEEDPEAEEDPDS
