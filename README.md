@@ -19,7 +19,7 @@ usually the best being 15-22 amino acids in length.
 The python code(generate_epitope_combinations.py) for the generation of multi-epitope vaccine constructs,this code is essential for the generation of vaccine constructs, 
 the user has latitude to select the adjuvant and linkers for the B and T cell epitopes(edit the script to appropriate adjuvant and linkers).
 
-##usage: generate_epitope_combinations.py [-h] [-t TCELL] [-b BCELL]
+#usage: generate_epitope_combinations.py [-h] [-t TCELL] [-b BCELL]
                                         [-r RANDOMSIZE] [-tcl TCLINKER]
                                         [-bcl BCLINKER]
 
