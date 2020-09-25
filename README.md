@@ -21,9 +21,9 @@ the user has latitude to select the adjuvant and linkers for the B and T cell ep
 
 ## usage: 
 
-`python` generate_epitope_combinations.py [-h] [-t TCELL] [-b BCELL]
+`python` `generate_epitope_combinations.py [-h] [-t TCELL] [-b BCELL]
                                         [-r RANDOMSIZE] [-tcl TCLINKER]
-                                        [-bcl BCLINKER]
+                                        [-bcl BCLINKER]`
 
 ### optional arguments:
   -h, --help            show this help message and exit
