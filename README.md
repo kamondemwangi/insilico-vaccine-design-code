@@ -19,11 +19,11 @@ usually the best being 15-22 amino acids in length.
 The python code(generate_epitope_combinations.py) for the generation of multi-epitope vaccine constructs,this code is essential for the generation of vaccine constructs, 
 the user has latitude to select the adjuvant and linkers for the B and T cell epitopes(edit the script to appropriate adjuvant and linkers).
 
-#usage: generate_epitope_combinations.py [-h] [-t TCELL] [-b BCELL]
+# usage: `generate_epitope_combinations.py` [-h] [-t TCELL] [-b BCELL]
                                         [-r RANDOMSIZE] [-tcl TCLINKER]
                                         [-bcl BCLINKER]
 
-optional arguments:
+## optional arguments:
   -h, --help            show this help message and exit
   -r RANDOMSIZE, --randomsize RANDOMSIZE
                         number of randomized epitopes
@@ -32,13 +32,13 @@ optional arguments:
   -bcl BCLINKER, --bclinker BCLINKER
                         B-cell epitopes linker
 
-required arguments:
+## required arguments:
   -t TCELL, --tcell TCELL
                         T-cell epitope file path
   -b BCELL, --bcell BCELL
                         B-cell epitope file path
                         
- provide B & T cell epitopes in csv format.
+  **provide B & T cell epitopes in csv format.
  
 Gromacs,molecular dynamics simulation of vaccine-receptor complex script(gromacs_script.sbatch) also available, this is essential to study the stability 
 of the vaccine-receptor complex insilico.
