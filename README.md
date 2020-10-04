@@ -17,7 +17,7 @@ usually at an optimal length of 9-10 mers while B-cell epitopes having varying l
 usually the best being 15-22 amino acids in length.
 
 The python code(generate_epitope_combinations.py) for the generation of multi-epitope vaccine constructs,this code is essential for the generation of vaccine constructs, 
-the user has latitude to select the adjuvant and linkers for the B and T cell epitopes(edit the script to appropriate adjuvant and linkers).
+the user has latitude to select the adjuvant and linkers for the B and T cell epitopes(edit the script to appropriate adjuvant and linkers) eg. tcell_linker='AAY', bcell_linker='GPGPG'.
 
 ## usage: 
 
